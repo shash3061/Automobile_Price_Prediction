@@ -1,3 +1,3 @@
 # Automobile Price Prediction
 
-EDA and automobile price predictions.
+Exploratory Data Analysis (EDA) and automobile price predictions.
